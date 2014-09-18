@@ -9,9 +9,9 @@
 <!-- Meta Tags -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<title>Xquisito | Colima</title>   
+<title>Mario Carrillo RW</title>   
 
-<meta name="description" content="Banqueteria" /> 
+<meta name="description" content="web developer" /> 
 
 <!-- Mobile Specifics -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -115,16 +115,16 @@
     	<a id="mobile-nav" class="menu-nav" href="#menu-nav"></a>
         
         <div id="logo">
-        	<a id="goUp" href="#home-slider" title="Xquisito | Colima">Xquisito Colima</a>
+        	<a id="goUp" href="#home-slider" title="MarioCarrillo">Mario Carrillo</a>
         </div>
         
         <nav id="menu">
         	<ul id="menu-nav">
-            	<li class="current"><a href="#home-slider">Inicio</a></li>
-                <li><a href="#work">Menú</a></li>
-                <li><a href="#about">Acerca de nosotros</a></li>
-                <li><a href="#contact">Contacto</a></li>
-				<li><a href="shortcodes.html" class="external">Tabs</a></li>
+            	<li class="current"><a href="#home-slider">Home</a></li>
+                <li><a href="#work">Portfolio</a></li>
+                <li><a href="#about">Associated</a></li>
+                <li><a href="#contact">Contact</a></li>
+				<li><a href="shortcodes.php" class="external">Tabs</a></li>
             </ul>
         </nav>
         
@@ -139,8 +139,8 @@
         <div class="row">
             <div class="span12">
                 <div class="title-page">
-                    <h2 class="title">Nuestros Platillos</h2>
-                    <h3 class="title-description">Hecha un vistazo a nuestros <a href="#">platillos</a>.</h3>
+                    <h2 class="title">Portafolio...</h2>
+                    <h3 class="title-description">Conoce mi <a href="#">trabajo</a>.</h3>
                 </div>
             </div>
         </div>
@@ -152,11 +152,11 @@
             	<!-- Filter -->
                 <nav id="options" class="work-nav">
                     <ul id="filters" class="option-set" data-option-key="filter">
-                    	<li class="type-work">Tipos</li>
-                        <li><a href="#filter" data-option-value="*" class="selected">Postres</a></li>
-                        <li><a href="#filter" data-option-value=".design">Acompañamientos</a></li>
-                        <li><a href="#filter" data-option-value=".photography">Aperitivos</a></li>
-                        <li><a href="#filter" data-option-value=".video">Bebidas</a></li>
+                    	<li class="type-work">Ver...</li>
+                        <li><a href="#filter" data-option-value="*" class="selected">Web Pages</a></li>
+                        <li><a href="#filter" data-option-value=".design">Applications</a></li>
+                        <li><a href="#filter" data-option-value=".photography">Augmented Reality</a></li>
+                        <li><a href="#filter" data-option-value=".video">3D Art</a></li>
                     </ul>
                 </nav>
                 <!-- End Filter -->
@@ -292,8 +292,8 @@
     <div class="row">
         <div class="span12">
             <div class="title-page">
-                <h2 class="title">Nosotros</h2>
-                <h3 class="title-description">Conoce nuestro equipo de trabajo!.</h3>
+                <h2 class="title">Asociados</h2>
+                <h3 class="title-description">Conoce mi equipo de trabajo!.</h3>
             </div>
         </div>
     </div>
@@ -330,7 +330,7 @@
         	<div class="image-wrap">
                 <div class="hover-wrap">
                     <span class="overlay-img"></span>
-                    <span class="overlay-text-thumb">Cheff</span>
+                    <span class="overlay-text-thumb">Developer</span>
                 </div>
                 <img src="_include/img/profile/profile-02.jpg" alt="Jane Helf">
             </div>
@@ -352,7 +352,7 @@
         	<div class="image-wrap">
                 <div class="hover-wrap">
                     <span class="overlay-img"></span>
-                    <span class="overlay-text-thumb">Cheff</span>
+                    <span class="overlay-text-thumb">Designer</span>
                 </div>
                 <img src="_include/img/profile/profile-03.jpg" alt="Joshua Insanus">
             </div>
@@ -396,7 +396,7 @@
     <div class="row">
     	<div class="span9">
         
-        	<form id="contact-form" class="contact-form" action="#">
+        	<form id="contact-form" class="contact-form" method="post">
             	<p class="contact-name">
             		<input id="contact_name" type="text" placeholder="Nombre Completo" value="" name="name" />
                 </p>
@@ -421,14 +421,14 @@
         	<div class="contact-details">
         		<h3>Detalles de contacto</h3>
                 <ul>
-                    <li><a href="#">hello@brushed.com</a></li>
-                    <li>(916) 375-2525</li>
+                    <li><a href="#">mario_carrillo@royalweb.com.mx</a></li>
+                    <li>(044) 312-119-7590</li>
                     <li>
-                        Brushed Studio
+                        RoyalWeb Engineering
                         <br>
-                        5240 Vanish Island. 105
+                        28979 Villa de Álvarez, Colima
                         <br>
-                        Unknow
+                        México
                     </li>
                 </ul>
             </div>
@@ -444,7 +444,7 @@
 	<div class="container">
     	<div class="row">
             <div class="span12">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1883.2195857664024!2d-103.71844379792917!3d19.263258779835844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1scolima+gourmet!5e0!3m2!1ses!2smx!4v1409180027772" width="900" height="200" frameborder="0" style="border:0"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7531.477001161144!2d-103.73452735000001!3d19.293734850000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842544d202e223d1%3A0xabdb23b654dcddae!2sSolidaridad%2C+28979+COL!5e0!3m2!1ses!2smx!4v1409692237140" width="900" height="400" frameborder="0" style="border:0"></iframe>
             </div>
         </div>
     </div>
@@ -458,15 +458,15 @@
             <div class="span12">
                 <nav id="social">
                     <ul>
-                        <li><a href="https://twitter.com/Bluxart" title="Follow Me on Twitter" target="_blank"><span class="font-icon-social-twitter"></span></a></li>
-                        <li><a href="http://dribbble.com/Bluxart" title="Follow Me on Dribbble" target="_blank"><span class="font-icon-social-dribbble"></span></a></li>
-                        <li><a href="http://forrst.com/people/Bluxart" title="Follow Me on Forrst" target="_blank"><span class="font-icon-social-forrst"></span></a></li>
-                        <li><a href="http://www.behance.net/alessioatzeni" title="Follow Me on Behance" target="_blank"><span class="font-icon-social-behance"></span></a></li>
-                        <li><a href="https://www.facebook.com/Bluxart" title="Follow Me on Facebook" target="_blank"><span class="font-icon-social-facebook"></span></a></li>
-                        <li><a href="https://plus.google.com/105500420878314068694" title="Follow Me on Google Plus" target="_blank"><span class="font-icon-social-google-plus"></span></a></li>
-                        <li><a href="http://www.linkedin.com/in/alessioatzeni" title="Follow Me on LinkedIn" target="_blank"><span class="font-icon-social-linkedin"></span></a></li>
-                        <li><a href="http://themeforest.net/user/Bluxart" title="Follow Me on ThemeForest" target="_blank"><span class="font-icon-social-envato"></span></a></li>
-                        <li><a href="http://zerply.com/Bluxart/public" title="Follow Me on Zerply" target="_blank"><span class="font-icon-social-zerply"></span></a></li>
+                        <li><a href="https://twitter.com/DEIRUANGUREI06" title="Follow Me on Twitter" target="_blank"><span class="font-icon-social-twitter"></span></a></li>
+                        <li><a href="http://dribbble.com/" title="Follow Me on Dribbble" target="_blank"><span class="font-icon-social-dribbble"></span></a></li>
+                        <li><a href="http://forrst.com/" title="Follow Me on Forrst" target="_blank"><span class="font-icon-social-forrst"></span></a></li>
+                        <li><a href="http://www.behance.net/" title="Follow Me on Behance" target="_blank"><span class="font-icon-social-behance"></span></a></li>
+                        <li><a href="https://www.facebook.com/MACRx.x" title="Follow Me on Facebook" target="_blank"><span class="font-icon-social-facebook"></span></a></li>
+                        <li><a href="https://plus.google.com/" title="Follow Me on Google Plus" target="_blank"><span class="font-icon-social-google-plus"></span></a></li>
+                        <li><a href="http://www.linkedin.com/" title="Follow Me on LinkedIn" target="_blank"><span class="font-icon-social-linkedin"></span></a></li>
+                        <li><a href="http://themeforest.net/" title="Follow Me on ThemeForest" target="_blank"><span class="font-icon-social-envato"></span></a></li>
+                        <li><a href="http://zerply.com/" title="Follow Me on Zerply" target="_blank"><span class="font-icon-social-zerply"></span></a></li>
                     </ul>
                 </nav>
             </div>
@@ -477,7 +477,7 @@
 
 <!-- Footer -->
 <footer>
-	<p class="credits">&copy;2014. <a href="http://themes.alessioatzeni.com/html/brushed/" title="Brushed | Responsive One Page Template">Implementado </a> por <a href="http://www.facebook.com/MACR" title="Mario Carrillo | Web Developer">Macr</a></p>
+	<p class="credits">&copy;2014. <a href="http://www.mariocarrillo.royalweb.com.mx" title="">Implementado </a> por <a href="http://www.facebook.com/MACR" title="Mario Carrillo | Web Developer">Macr</a></p>
 </footer>
 <!-- End Footer -->
 

@@ -9,7 +9,7 @@
 <!-- Meta Tags -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<title>Shortcodes | Brushed | Responsive One Page Template</title>   
+<title>MarioCarrilloRW</title>   
 
 <meta name="description" content="Insert Your Site Description" /> 
 
@@ -109,16 +109,16 @@
     	<a id="mobile-nav" class="menu-nav" href="#menu-nav"></a>
         
         <div id="logo">
-        	<a id="goUp" href="#home-slider" title="Brushed | Responsive One Page Template">Brushed Template</a>
+        	<a id="goUp" href="#home-slider" title="Brushed"></a>
         </div>
         
         <nav id="menu">
         	<ul id="menu-nav">
-            	<li><a href="index.html#home-slider" class="external">Home</a></li>
-                <li><a href="index.html#work" class="external">Our Work</a></li>
-                <li><a href="index.html#about" class="external">About Us</a></li>
-                <li><a href="index.html#contact" class="external">Contact</a></li>
-                <li class="current"><a href="shortcodes.html">Shortcodes</a></li>
+            	<li><a href="index.php#home-slider" class="external">Home</a></li>
+                <li><a href="index.php#work" class="external">Portfolio</a></li>
+                <li><a href="index.php#about" class="external">Associated</a></a></li>
+                <li><a href="index.php#contact" class="external">Contact</a></li>
+                <li class="current"><a href="shortcodes.php">Tabs</a></li>
             </ul>
         </nav>
         
@@ -431,7 +431,7 @@
             <div class="span6">
             	<h3 class="spec">Responsive Video</h3>
                 <div class="video-container">
-					<iframe src="http://player.vimeo.com/video/50834315?byline=0&amp;portrait=0&amp;badge=0&amp;color=DE5E60"></iframe>
+					<iframe src="http://player.vimeo.com/video/28872165?byline=0&amp;portrait=0&amp;badge=0&amp;color=DE5E60"></iframe>
 				</div>
             </div>	
             <!-- End Video -->
@@ -756,7 +756,7 @@
         
 <!-- Footer -->
 <footer>
-	<p class="credits">&copy;2013 Brushed. <a href="http://themes.alessioatzeni.com/html/brushed/" title="Brushed | Responsive One Page Template">Brushed Template</a> by <a href="http://www.alessioatzeni.com/" title="Alessio Atzeni | Web Designer &amp; Front-end Developer">Alessio Atzeni</a></p>
+	<p class="credits">&copy;2014. <a href="http://mariocarrillo.royalweb.com.mx" title="Brushed | Responsive One Page Template">Implementado </a> por <a href="http://www.facebook.com/MACR" title="Mario Carrillo | Web Developer">Macr</a></p>
 </footer>
 <!-- End Footer -->
 
